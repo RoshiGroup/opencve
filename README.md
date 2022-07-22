@@ -1,3 +1,5 @@
+Use https://github.com/opencve/opencve
+
 <p align="center">
   <img alt="OpenCVE" src="https://raw.githubusercontent.com/opencve/opencve/master/logo.png">
 </p>
