@@ -86,7 +86,7 @@ class Config(object):
     REPORT_COUNT_EXCERPT = 3
 
     # Flask-User
-    USER_APP_NAME = "OpenCVE.io"
+    USER_APP_NAME = "CVE.bz"
     USER_ENABLE_CHANGE_USERNAME = False
     USER_ENABLE_MULTIPLE_EMAILS = True
     USER_AUTO_LOGIN_AFTER_CONFIRM = False
@@ -177,7 +177,7 @@ class Config(object):
 
         # Flask-Admin
         admin = Admin(
-            name="OpenCVE Admin", template_mode="bootstrap3", index_view=HomeView()
+            name="CVE.bz Admin", template_mode="bootstrap3", index_view=HomeView()
         )
         admin.init_app(app)
         with warnings.catch_warnings():
