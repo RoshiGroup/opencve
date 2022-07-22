@@ -1,26 +1,6 @@
-Use https://github.com/opencve/opencve
+# Use https://github.com/opencve/opencve
 
-<p align="center">
-  <img alt="OpenCVE" src="https://raw.githubusercontent.com/opencve/opencve/master/logo.png">
-</p>
-<p align="center">
-  <a href="https://github.com/opencve/opencve/actions?query=workflow%3ATests"><img alt="Tests" src="https://github.com/opencve/opencve/workflows/Tests/badge.svg"></a>
-  <a href="https://www.python.org/"><img alt="Python versions" src="https://img.shields.io/badge/python-3.6%2B-blue.svg"></a>
-  <a href="https://github.com/python/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/opencve/opencve/master/opencve1.png" width="270" height="150">
-  <img src="https://raw.githubusercontent.com/opencve/opencve/master/opencve2.png" width="270" height="150">
-  <img src="https://raw.githubusercontent.com/opencve/opencve/master/opencve3.png" width="270" height="150">
-  <img src="https://raw.githubusercontent.com/opencve/opencve/master/opencve4.png" width="270" height="150">
-  <img src="https://raw.githubusercontent.com/opencve/opencve/master/opencve5.png" width="270" height="150">
-  <img src="https://raw.githubusercontent.com/opencve/opencve/master/opencve6.png" width="270" height="150">
-</p>
-
-----------------
-
-Try **for free** OpenCVE on [https://www.opencve.io](https://www.opencve.io) or check [documentation](https://docs.opencve.io) to install it yourself.
 
 ## What is OpenCVE
 
